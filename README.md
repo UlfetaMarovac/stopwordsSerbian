@@ -18,7 +18,7 @@ It was created based on the grammar of the Serbian as well as by comparing with 
 ## Format
 
 The SSW dictionary is available as CSV file - SSWdictionary.csv. The file contains two columns: word and label.
-The label describe type of word:
+The label describes the type word:
 
 - auxiliary verbs (V)
 - pronouns (PRON), 
